@@ -1,6 +1,6 @@
 # Hi there! I am Aquiles 👋
 
-I am a fullstack developer who loves bring my ideas to life and transfer them to a screen 💻💡
+I´m a fullstack developer who loves bring my ideas to life and transfer them to a screen 💻💡
 
 Feel free to browse through my repositories. 
 ### My two most important projects to date:  
